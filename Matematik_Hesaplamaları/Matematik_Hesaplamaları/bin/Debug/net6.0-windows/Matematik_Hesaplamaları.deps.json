@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Matematik_Hesaplamaları/1.0.0": {
+        "runtime": {
+          "Matematik_Hesaplamaları.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matematik_Hesaplamaları/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
